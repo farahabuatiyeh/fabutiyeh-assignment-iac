@@ -2,12 +2,17 @@
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "appServiceAppName": {
-            "value": "fabuatiyeh-app-prod-bicep"
+        "appServiceAppName1": {
+            "value": "fabuatiyeh-assignment-prod-be"
         },
-        "appServicePlanName": {
-            "value": "fabuatiyeh-app-prod-bicep"
+        "appServiceAppName3": {
+            "value": "fabuatiyeh-assignment-prod-fe"
+        },
+        "appServicePlanName1": {
+            "value": "fabuatiyeh-assignment-prod"
+        },
+        "environmentType": {
+            "value": "prod"
         }
     }
 }
-    
