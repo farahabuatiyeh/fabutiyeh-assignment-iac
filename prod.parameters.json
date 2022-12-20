@@ -3,13 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appServiceAppName": {
-            "value": "jseijas-app-prod-bicep"
+            "value": "fabuatiyeh-app-prod-bicep"
         },
         "appServicePlanName": {
-            "value": "jseijas-app-prod-bicep"
-        },
-        "storageAccountName": {
-            "value": "jseijasprodstorage"
+            "value": "fabuatiyeh-app-prod-bicep"
         }
     }
 }
