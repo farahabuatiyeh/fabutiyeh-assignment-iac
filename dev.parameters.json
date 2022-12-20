@@ -2,17 +2,17 @@
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "appServiceAppName1": {
-            "value": "fabuatiyeh-assignment-be"
-        },
-
         "appServiceAppName2": {
-            "value": "fabuatiyeh-assignment-fe"
+            "value": "fabuatiyeh-assignment-dev-be"
         },
-
-        "storageAccountName": {
+        "appServiceAppName4": {
+            "value": "fabuatiyeh-assignment-dev-fe"
+        },
+        "appServicePlanName2": {
+            "value": "fabuatiyeh-assignment-dev"
+        },
+        "environmentType": {
             "value": "nonprod"
         }
     }
 }
-    
